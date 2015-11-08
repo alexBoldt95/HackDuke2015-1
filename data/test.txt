@@ -1,0 +1,19 @@
+
+Gen 1
+Bran 11
+Bran 12
+
+Gen 2
+Bran 21
+Bran 22
+*
+Alt 21
+Alt 22
+
+Gen 3
+Bran 31
+Bran 32
+*
+Alt 31
+Alt 32
+

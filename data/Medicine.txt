@@ -1,0 +1,887 @@
+
+levothyroxine
+Levothroid
+Levoxyl
+Synthroid
+Tirosint
+Unithroid
+Synthroid
+
+rosuvastatin
+Crestor
+*
+atorvastatin
+simvastatin
+Lipitor
+Zetia
+Zocor
+lovastatin
+
+albuterol inhalation
+ProAir HFA
+ProAir RespiClick
+Proventil HFA
+Ventolin HFA
+
+esomeprazole
+Esomeprazole Strontium
+NexIUM
+
+fluticasone
+Advair Diskus
+Advair HFA
+
+salmeterol
+Advair Diskus
+Advair HFA
+
+insulin glargine
+Lantus OptiClik Cartridge
+Lantus Solostar Pen 
+Toujeo SoloStar
+
+lisdexamfetamine
+Vyvanse
+*
+Adderall
+Ritalin
+Strattera
+Concerta
+methylphenidate
+Adderall XR
+Focalin
+amphetamine
+dextroamphetamine
+Focalin XR
+dexmethylphenidate
+atomoxetine
+Quillivant XR
+
+pregabalin
+Lyrica
+*
+prednisone
+Cymbalta
+amitriptyline
+duloxetine
+Elavil
+
+Tiotropium Bromide
+Spiriva Respimat
+*
+Symbicort
+albuterol
+Advair Diskus
+Ventolin
+ProAir HFA
+ipratropium
+Atrovent
+DuoNeb
+Xopenex
+Combivent
+Proventil
+
+sitagliptin
+Januvia
+*
+metformin
+insulin aspart
+glipizide
+glimepiride
+Lantus
+Victoza
+Invokana
+Levemir
+
+insulin glargine
+Lantus
+Lantus OptiClik Cartridge
+Lantus Solostar Pen
+Toujeo SoloStar
+
+aripiprazole
+Abilify
+*
+Seroquel
+lithium
+clonazepam
+Klonopin
+Lamictal
+Depakote
+
+budesonide
+Symbicort
+*
+Spiriva
+albuterol
+Advair Diskus
+Ventolin
+ProAir HFA
+
+formoterol
+Symbicort
+*
+Spiriva
+albuterol
+Advair Diskus
+Ventolin
+ProAir HFA
+
+oseltamivir
+Tamiflu
+*
+amantadine
+Symmetrel
+oseltamivir
+Dologesic
+Coricidin HBP
+zanamivir
+
+tadalafil
+Cialis
+Viagra
+
+buprenorphine
+Bunavail
+Suboxone
+Zubsolv
+
+naloxone
+Bunavail
+Suboxone
+Zubsolv
+
+ezetimibe
+Zetia
+
+rivaroxaban
+Xarelto
+*
+digoxin
+diltiazem
+Cardizem
+sotalol
+flecainide
+
+nebivolol
+Bystolic
+*
+lisinopril
+amlodipine
+metoprolol
+furosemide
+hydrochlorothiazide
+losartan
+atenolol
+
+celecoxib
+celebrex
+*
+tramadol
+oxycodone
+acetaminophen
+naproxen
+Tylenol
+
+mometasone
+Nasonex
+*
+beclomethasone
+beconase
+
+memantine
+Namenda
+Namenda XR
+*
+Aricept
+Exelon
+donepezil
+rivastigmine
+
+fluticasone
+Arnuity Ellipta
+Flovent Diskus
+Flovent HFA
+Flovent
+Flovent Rotadisk
+Flovent Diskus 
+
+oxycodone
+oxyontin
+oxecta
+oxyfast
+roxicodone
+
+hydrochlorothiazide
+Diovan HCT
+Benicar HCT
+*
+lisinopril
+amlodipine
+metoprolol
+furosemide
+
+valsartan
+Diovan HCT
+*
+lisinopril
+amlodipine
+metoprolol
+furosemide
+
+thyroid dessicated
+Armour Thyroid
+Nature-Throid
+Westhroid
+Thyroid Porcine
+
+diclofenac topical 
+Pennsaid
+Solaraze
+Voltaren Topical
+
+ethinyl estradiol
+NuvaRing
+*
+Mirena
+Depo-Provera
+medroxyprogesterone
+Provera
+
+etonogestrel
+NuvaRing
+*
+Mirena
+Depo-Provera
+medroxyprogesterone
+Provera
+
+influenza virus vaccine
+Afluria
+Agriflu
+Fluarix
+Quadrivalent
+Flublok
+Flucelvax
+FluLaval
+Fluvirin
+Fluzone
+
+dexlansoprazole
+Dexilant
+Kapidex
+
+olmesartan
+Diovan HCT
+Benicar HCT
+
+albuterol
+ProAir HFA
+ProAir RespiClick
+Proventil HFA
+Ventolin HFA
+
+insulin lispro
+HumaLOG
+HumaLOG Cartridge
+HumaLOG KwikPen
+
+insulin aspart
+NovoLOG
+NovoLog FlexPen
+NovoLOG PenFill
+NovoLog FlexTouch
+
+bimatoprost ophthalmic
+Lumigan
+timolol ophthalmic
+Xalatan
+Travatan
+Alphagan
+latanoprost ophthalmic
+
+solifenacin
+VESIcare
+
+conjugated estrogens
+premarin
+*
+estradiol topical
+Estrace
+Prempro
+Vagifem
+Estrace Vaginal Cream
+
+metformin
+Janumet
+Janumet XR
+
+sitagliptin
+Janumet
+Janumet XR
+
+Olopatadine opthalmic
+Pataday
+Patanol
+Pazeo
+
+ethinyl estradiol
+Mononessa
+Ortho Tri-Cyclen
+Ortho Tri-Cyclen Lo
+Ortho-Cyclen
+Previfem
+Sprintec
+Tri-Linyah
+TriNessa
+Tri-Previfem
+Tri-Sprintec
+Tri-Lo-Sprintec
+Mono-Linyah
+Estarylla
+Tri-Estarylla
+
+norgestimate
+Mononessa
+Ortho Tri-Cyclen
+Ortho Tri-Cyclen Lo
+Ortho-Cyclen
+Previfem
+Sprintec
+Tri-Linyah
+TriNessa
+Tri-Previfem
+Tri-Sprintec
+Tri-Lo-Sprintec
+Mono-Linyah
+Estarylla
+Tri-Estarylla
+
+travoprost ophthalmic
+travatan
+*
+Lumigan
+timolol ophthalmic
+Xalatan
+
+albuterol
+Combivent Respimat
+DuoNeb
+
+ipratropium
+Combivent Respimat
+DuoNeb
+
+metoprolol
+Lopressor
+Metoprolol Succinate ER
+Metoprolol Tartrate
+Toprol-XL
+
+desvenlafaxine
+khedezla
+pristiq
+
+Canagliflozin
+Invokana
+
+Norethindrone acetate and ethinyl estradiol, and ferrous fumarate
+Minastrin 24 Fe
+
+atomoxetine
+Strattera
+
+quetiapine
+Seroquel
+Seroquel XR
+
+ezetimibe
+simvastatin
+Vytorin
+*
+atorvastatin
+simvastatin
+Crestor
+Lipitor
+Zetia
+Zocor
+lovastatin
+
+dexmethylphenidate
+Focalin XR
+Focalin
+*
+Adderall
+Vyvanse
+Ritalin
+Strattera
+Concerta
+methylphenidate
+
+formoterol
+mometasone
+Dulera
+
+insulin detemir
+Levemir Flexpen
+Levemir
+
+zoster vaccine live
+Zostavax
+
+dutasteride
+Avodart
+*
+Cialis
+Tamsulosin
+finasteride
+Flomax
+doxazosin
+prazosin
+
+dabigatran
+Pradaxa
+*
+aspirin
+Xarelto
+warfarin
+Coumadin
+Eliquis
+apixaban
+
+varenicline
+Chantix
+*
+bupropion
+nicotine
+Zyban
+Nicoderm CQ
+Nicorette
+
+apixaban
+Eliquis
+*
+aspirin
+Xarelto
+warfarin
+Pradaxa
+Lovenox
+heparin
+enoxaparin
+rivaroxaan
+
+adalimumab
+Humira
+*
+budesonide
+hyoscyamine
+azathioprine
+Celebrex
+Asacol
+prednisone
+diclofenac
+
+liraglutide
+Victoza
+*
+metformin
+insulin aspart
+glipizide
+Januvia
+glimepiride
+Lantus
+Invokana
+
+brimonidine
+timolol ophthalmic
+Combigan
+*
+Lumigan
+Xalatan
+pilocarpine
+Travatan
+Alphagan
+nadolol
+pilocarpine
+
+rivastigmine
+Exelon
+*
+Aricept
+donepezil
+Namenda
+Memantine
+vitamin e
+galantamine
+ropinirole
+benztropine
+Sinemet
+
+linagliptin
+Tradjenta
+*
+metformin
+insulin aspart
+Januvia
+Lantus
+Levemir
+Invokana
+Actos
+
+conjugated estrogens
+Premarin Vaginal
+*
+Premarin
+estradiol topical
+Estrace
+Prempro
+Vagifem
+
+etanercept
+Enbrel
+*
+prednisone
+naproxen
+Humira
+diclofenac
+methotrexate
+triamcinolone
+Decadron
+sulfasalazine
+
+saxagliptin
+Onglyza
+*
+metformin
+insulin aspart
+glipizide
+Victoza
+glyburide
+Farxiga
+
+ranolazine
+Ranexa
+*
+amlodipine
+metoprolol
+atenolol
+carvedilol
+propranolol
+Norvasc
+Coreg
+Nitrostat
+
+emtricitabine
+tenofovir
+Truvada
+*
+Atripla
+Stribild
+Norvir
+Iamivudine
+Viread
+Complera
+
+colesevelam
+Welchol
+*
+atorvastatin
+simvastatin
+Crestor
+Lipitor
+Zetia
+Zocor
+metformin
+Januvia
+Lantus
+fenofibrate
+
+linaclotide
+Linzess
+*
+lactulose
+Amitiza
+Relistor
+GoLYTELY
+lubiprostone
+linaclotide
+MoviPrep
+Enulose
+Bentyl
+Amitiza
+Librax
+Dulcolax
+
+lurasidone
+Latuda
+*
+Seroquel
+lithium
+clonazepam
+Abilify
+Klonopin
+Lamictal
+Depakote
+quetiapine
+olanzapine
+Risperdal
+Zyprexa
+
+brimonidine ophthalmic
+Alphagan P
+*
+Lumigan
+timolol
+Xalatan
+Travatan
+Alphagan
+Azopt
+latanoprost ophthalmic
+
+vilazodone
+Viibryd
+*
+trazodone
+sertraline
+Zoloft
+Lexapro
+Cymbalta
+Prozac
+Wellbutrin
+Abilify
+fluoxetine
+venlafaxine
+bupropion
+
+prasugrel
+Effient
+*
+Plavix
+clopidogrel
+Lovenox
+enoxaparin
+Brilinta
+ticagrelor
+prasugrel
+Integrillin
+eptifibatide
+tirofiban
+
+ritonavir
+Norvir
+*
+Truvada
+Atripia
+Stribild
+Isentress
+lamivudine
+Viread
+Complera
+
+lubiprostone
+Amitiza
+*
+lactulose
+Linzess
+Relistor
+GoLYTELY
+Movantik
+Bentyl
+hyoscyamine
+Metamucil
+
+amlodipine
+olmesartan
+Azor
+*
+lisinopril
+amlodipine
+metoprolol
+furosemide
+hydrochlorothlazide
+losartan
+atenolol
+
+fluticasone
+salmeterol
+Advair HFA
+*
+Symbicort
+Spiriva
+albuterol
+Ventolin
+ipraropium
+Atrovent
+DuoNeb
+Xopenex
+Combivent
+Proventil
+
+febuxostat
+Uloric
+*
+allopurinol
+Zyloprim
+probenecid
+sulfinpyrazone
+Benemid
+Alprim
+Krystexxa
+
+loteprednol ophthalmic
+Lotemax
+*
+diclofenac ophthalmic
+dexamethasone ophthalmic
+triamcinolone
+ceftriaxone
+Rocephin
+cortisone
+ketorolac ophthalmic
+Pataday
+Patanol
+Pazeo
+Alrex
+Acular
+
+mirabegron
+Myrbetriq
+*
+oxybutynin
+VESIcare
+Ditropan
+tolterodine
+Toviaz
+Detrol
+Botox
+
+mometasone inhalation
+Asmanex Twisthaler
+*
+Symbicort
+albuterol
+fluticasone
+montelukast
+Singulair
+methylprednisone
+Ventolin
+
+adapalene
+benzoyl peroxide
+Epiduo
+*
+doxycycline
+clindamycin topical
+Accutane
+Yaz
+
+levalbuterol inhalation
+Xopenex HFA
+*
+Symbicort
+Spiriva
+albuterol
+Ventolin
+Singulair
+montelukast
+
+diflprednate ophthalmic emulsion
+Durezol
+*
+triamcinolone
+atropine ophthalmic
+azathioprine
+Imuran
+TobraDex
+cortisone
+Ocufen
+
+olopatadine ophthalmic
+Patanol
+*
+ketorolac
+Pataday
+Lotemax
+Pazeo
+Alrex
+Acular
+
+efavirenz
+emtricitabine
+tenofovir
+Atripla
+*
+Truvada
+Stribild
+Isentress
+Norvir
+Viread
+Complera
+Kaletra
+Prezista
+abacavir
+
+aspirin
+dipyridamole
+Aggrenox
+*
+Plavix
+clopidogrel
+pravastatin
+Pravachol
+Ecotrin
+Bayer Aspirin
+
+amlodipine
+valsartan
+Exforge
+*
+lisinopril
+amlodipine
+metoprolol
+furosemide
+hydrochlorothiazide
+losartan
+Lasix
+
+Insulin regular
+Humulin R
+*
+metformin
+insulin aspart
+Januvia
+Lantus
+Novolog
+Humalog
+Lantus Solostar
+
+sucralfate
+Carafate
+*
+omeprazole
+pantoprazole
+ranitidine
+famotidine
+Nexium
+Protonix
+Prilosec
+
+insulin aspart
+Novolog Flxpen
+*
+metformin
+glipizide
+Januvia
+Lantus
+Victoza
+Actos
+
+eletriptan
+Relpax
+*
+diclofenac
+sumatriptan
+Imtrex
+Reglan
+Maxalt
+
