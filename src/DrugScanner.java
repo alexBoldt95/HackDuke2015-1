@@ -156,9 +156,35 @@ public class DrugScanner
 		return genericToNode.get(theGeneric);
 	}
 
-	public Node brandLookup(String theBrand)
+	public Node brandLookUp(String theBrand)
 	{
 		String generic = brandToGeneric.get(theBrand);
 		return genericToNode.get(generic);
+	}
+	public String[] search(String input){
+		Node answer = new Node();
+		if(brandToGeneric.containsKey(input)){
+			answer = brandLookUp(input);
+		}
+		else if(genericToNode.containsKey(input)){
+			answer = genericLookUp(input);
+		}
+		else{
+			return null;
+		}
+		String[] ret = new String[answer.brandNames.size()+1];
+		ret[0] = answer.genericName;
+		int i = 1;
+		for(String brand: answer.brandNames){
+			ret[i] = brand;
+			i++;
+		}
+		return ret;
+		
+		
+		
+		
+		
+		
 	}
 }
