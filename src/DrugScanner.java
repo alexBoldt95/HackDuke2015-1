@@ -6,40 +6,38 @@ import java.util.*;
 public class DrugScanner 
 {	
 	//stores each collection(set) of similar drugs
-	public static ArrayList<Node> myNodeSets = new ArrayList<Node>();
-	
+	public ArrayList<Node> myNodeList;
+	TreeMap<String,String> brandToGeneric;
+	TreeMap<String,Node> genericToNode;
+
 	//Builds a TreeMap which stores generic names with brand names as keys
-	public TreeMap<String,String> brandGenericMap(){
-		TreeMap<String,String> brandToGeneric = new TreeMap<String,String>();
-		for(int i = 0; i < myNodeSets.size(); i++){
-			TreeSet<String> tempBrands = myNodeSets.get(i);
-			ArrayList<String> alBrands = new ArrayList<String>();
-			alBrands.addAll(tempBrands);
-			for(int j = 1; j < tempBrands.size(); j++){
-				brandToGeneric.put(alBrands.get(j),alBrands.get(0));
+	public void brandToGenericMap(){
+		brandToGeneric = new TreeMap<String, String>();
+		for(int i = 0; i < myNodeList.size(); i++){
+			String generic = myNodeList.get(i).genericName;
+			TreeSet<String> tempBrands = myNodeList.get(i).brandNames;
+			for(String brand:tempBrands){
+				brandToGeneric.put(brand, generic);
 			}
 		}
-		return brandToGeneric;
 	}
-	
+
 	//Builds a TreeMap which stores Nodes with generic names as keys
-	public TreeMap<String,Node> genericToNodeMap(){
-		TreeMap<String,Node> genericToNode = new TreeMap<String,Node>();
-		for(int i = 0; i < myNodeSets.size(); i++){
-			Node tempNode = myNodeSets.get(i);
-			ArrayList<String> tempBrands = new ArrayList<String>();
-			tempBrands.addAll(tempNode.brandNames);
-			String generic = tempBrands.get(0);
-			genericToNode(generic,tempNode);
+	public void genericToNodeMap(){
+		genericToNode = new TreeMap<String, Node>();
+		for(int i = 0; i < myNodeList.size(); i++){
+			Node tempNode = myNodeList.get(i);
+			String generic = myNodeList.get(i).genericName;
+			genericToNode.put(generic,tempNode);
 		}
-		return genericToNode;
 	}
-	
+
 	public DrugScanner(String fileName){
-		ArrayList<Node> myNodeSets = new ArrayList<Node>();
-		scanTheFile(File fileName);
-		TreeMap<String,String> brandToGeneric = brandToGenericMap();
-		TreeMap<String,Node> genericToNode = genericToNodeMap();
+		myNodeList = new ArrayList<Node>();
+		File toScan = new File(fileName);
+		scanTheFile(toScan);
+		brandToGenericMap();
+		genericToNodeMap();
 	}
 
 	//each drug is going to be its own node
@@ -66,21 +64,19 @@ public class DrugScanner
 
 	public static void main(String[] args)
 	{
-		File textFile = new File("data/Medicine.txt");
-		scanTheFile(textFile);
-		testArray();
+		DrugScanner t = new DrugScanner("data/Medicine.txt");
+		System.out.println(t.brandToGeneric.toString());
+		System.out.println(t.genericToNode.toString());
+
 	}
 
-	public static void scanTheFile(File textFile)
+	public void scanTheFile(File textFile)
 	{
 		//use these fillers to make the variables of the Node class later
 		TreeSet<String> currentBrandSet = new TreeSet<String>();
 		TreeSet<String> currentAlternativeSet = new TreeSet<String>();
 		String currentLine = "";
 		String currentGeneric = "";
-
-		//need instance of DrugScanner
-		//DrugScanner myScanner = new DrugScanner();
 
 		try 
 		{
@@ -127,15 +123,17 @@ public class DrugScanner
 						if( currentLine.isEmpty())
 						{
 							//System.out.println(currentGeneric);
-							DrugScanner.myNodeSets.add(new Node( currentGeneric, new TreeSet<String>(currentBrandSet), 
+							myNodeList.add(new Node( currentGeneric, new TreeSet<String>(currentBrandSet), 
 									new TreeSet<String>(currentAlternativeSet)));
 							currentBrandSet.clear();
 							currentAlternativeSet.clear();
 						}
 					}
 				}
+				sc.close();
 			}
-		} 
+		}
+
 
 		catch (FileNotFoundException e) 
 		{
@@ -144,20 +142,21 @@ public class DrugScanner
 
 	}
 
-	public static void testArray()
+	public void testArray()
 	{
-		for(Node drug: myNodeSets){
-			System.out.println(drug.genericName);
-			System.out.println(drug.brandNames.toString());
-			System.out.println(drug.alternatives.toString());
-		}
+		//		for(Node drug: myNodeSets){
+		//			System.out.println(drug.genericName);
+		//			System.out.println(drug.brandNames.toString());
+		//			System.out.println(drug.alternatives.toString());
+		//		}
+
 	}
-	public static Node genericLookUp(String theGeneric)
+	public Node genericLookUp(String theGeneric)
 	{
 		return genericToNode.get(theGeneric);
 	}
 
-	public static Node brandLookup(String theBrand)
+	public Node brandLookup(String theBrand)
 	{
 		String generic = brandToGeneric.get(theBrand);
 		return genericToNode.get(generic);
