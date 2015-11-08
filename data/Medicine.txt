@@ -27,11 +27,7 @@ esomeprazole
 Esomeprazole Strontium
 NexIUM
 
-fluticasone
-Advair Diskus
-Advair HFA
-
-salmeterol
+fluticasone/salmeterol
 Advair Diskus
 Advair HFA
 
@@ -109,16 +105,7 @@ Klonopin
 Lamictal
 Depakote
 
-budesonide
-Symbicort
-*
-Spiriva
-albuterol
-Advair Diskus
-Ventolin
-ProAir HFA
-
-formoterol
+budesonide/formoterol
 Symbicort
 *
 Spiriva
@@ -212,17 +199,9 @@ oxecta
 oxyfast
 roxicodone
 
-hydrochlorothiazide
+hydrochlorothiazide/valsartan
 Diovan HCT
 Benicar HCT
-*
-lisinopril
-amlodipine
-metoprolol
-furosemide
-
-valsartan
-Diovan HCT
 *
 lisinopril
 amlodipine
@@ -240,15 +219,7 @@ Pennsaid
 Solaraze
 Voltaren Topical
 
-ethinyl estradiol
-NuvaRing
-*
-Mirena
-Depo-Provera
-medroxyprogesterone
-Provera
-
-etonogestrel
+ethinyl estradiol/etonogestrel
 NuvaRing
 *
 Mirena
@@ -364,11 +335,7 @@ Lumigan
 timolol ophthalmic
 Xalatan
 
-albuterol
-Combivent Respimat
-DuoNeb
-
-ipratropium
+albuterol/ipratropium
 Combivent Respimat
 DuoNeb
 
@@ -395,8 +362,7 @@ quetiapine
 Seroquel
 Seroquel XR
 
-ezetimibe
-simvastatin
+ezetimibe/simvastatin
 Vytorin
 *
 atorvastatin
@@ -418,8 +384,7 @@ Strattera
 Concerta
 methylphenidate
 
-formoterol
-mometasone
+formoterol/mometasone
 Dulera
 
 insulin detemir
@@ -492,8 +457,7 @@ glimepiride
 Lantus
 Invokana
 
-brimonidine
-timolol ophthalmic
+brimonidine/timolol ophthalmic
 Combigan
 *
 Lumigan
@@ -571,8 +535,7 @@ Norvasc
 Coreg
 Nitrostat
 
-emtricitabine
-tenofovir
+emtricitabine/tenofovir
 Truvada
 *
 Atripla
@@ -690,8 +653,7 @@ Bentyl
 hyoscyamine
 Metamucil
 
-amlodipine
-olmesartan
+amlodipine/olmesartan
 Azor
 *
 lisinopril
@@ -702,8 +664,7 @@ hydrochlorothlazide
 losartan
 atenolol
 
-fluticasone
-salmeterol
+fluticasone/salmeterol
 Advair HFA
 *
 Symbicort
@@ -766,8 +727,7 @@ Singulair
 methylprednisone
 Ventolin
 
-adapalene
-benzoyl peroxide
+adapalene/benzoyl peroxide
 Epiduo
 *
 doxycycline
@@ -806,9 +766,7 @@ Pazeo
 Alrex
 Acular
 
-efavirenz
-emtricitabine
-tenofovir
+efavirenz/emtricitabine/tenofovir
 Atripla
 *
 Truvada
@@ -821,8 +779,7 @@ Kaletra
 Prezista
 abacavir
 
-aspirin
-dipyridamole
+aspirin/dipyridamole
 Aggrenox
 *
 Plavix
@@ -832,8 +789,7 @@ Pravachol
 Ecotrin
 Bayer Aspirin
 
-amlodipine
-valsartan
+amlodipine/valsartan
 Exforge
 *
 lisinopril
